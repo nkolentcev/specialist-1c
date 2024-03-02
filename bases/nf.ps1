@@ -1,4 +1,4 @@
-$path = "D:\Repositories\Github\specialist-1c\bases"
+$path = "D:\Repositories\Github\specialist-1c\bases\sp-platforme"
 
 foreach ($num in 1..20) {
     $folder = "task-{0:00}" -f $num
