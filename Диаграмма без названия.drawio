@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T13:13:02.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="lfRn9QKSEtkC2m13DLEE" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T13:15:19.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="oprL3Dl1OIijCtqtWh80" version="24.4.13" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1363" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1925" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,7 +133,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPmgGQFdsRP9vJYZk5yK-81" value="Доработка формы списка заказа производства, адаптация для выхода из ИТСМ" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="760" y="935" width="240" height="60" as="geometry" />
+          <mxGeometry x="760" y="935" width="240" height="55" as="geometry" />
         </mxCell>
         <mxCell id="hPmgGQFdsRP9vJYZk5yK-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hPmgGQFdsRP9vJYZk5yK-61" target="hPmgGQFdsRP9vJYZk5yK-81">
           <mxGeometry relative="1" as="geometry" />
